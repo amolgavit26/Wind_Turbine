@@ -43,3 +43,9 @@ Open the notebook in Jupyter or any notebook-compatible IDE and execute the cell
 +---------+------------------------+------------------------+------------------+--------------+----------+-------------+-------------+------------------------+------------------------------+
 
 ```
+
+## 🧑‍💻 Technologies & Tools Used
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
+
+---
