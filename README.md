@@ -55,13 +55,11 @@ Open the notebook in Jupyter or any notebook-compatible IDE and execute the cell
 
 Here’s how the page looks:
 
-![Home Page 1 Preview](HomePage1.png) 
-![Home Page 2 Preview](HomePage2.png) 
-![AllJobs Page Preview](AllJobs.png) 
-![Feedback Page Preview](Feedback.png) 
-![SignUp Page Preview](SignUp.png) 
-![SignIn Page Preview](SignIn.png) 
-![PostJob Page Preview](PostJob.png) 
-![EditJob Page Preview](EditJob.png) 
-![About Us 1 Page Preview](AboutUs1.png)
-![About Us 2 Page Preview](AboutUs2.png)
+![Home Page 1 Preview](All_Airfoils.png) 
+![Home Page 2 Preview](Analysis.png) 
+![AllJobs Page Preview](QBlade.png) 
+![Feedback Page Preview](CATIA_Design.png) 
+![SignUp Page Preview](MATLAB_Simulation_1.png) 
+![SignIn Page Preview](MATLAB_Simulation_2.png) 
+![PostJob Page Preview](MATLAB_Simulation_3.png) 
+![EditJob Page Preview](Model.jpg) 
