@@ -48,4 +48,20 @@ Open the notebook in Jupyter or any notebook-compatible IDE and execute the cell
 
 [![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
 
+
 ---
+
+## 📸 Preview
+
+Here’s how the page looks:
+
+![Home Page 1 Preview](HomePage1.png) 
+![Home Page 2 Preview](HomePage2.png) 
+![AllJobs Page Preview](AllJobs.png) 
+![Feedback Page Preview](Feedback.png) 
+![SignUp Page Preview](SignUp.png) 
+![SignIn Page Preview](SignIn.png) 
+![PostJob Page Preview](PostJob.png) 
+![EditJob Page Preview](EditJob.png) 
+![About Us 1 Page Preview](AboutUs1.png)
+![About Us 2 Page Preview](AboutUs2.png)
