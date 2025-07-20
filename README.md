@@ -58,7 +58,7 @@ Here’s how the page looks:
 ![All Airfoils](All_Airfoils.png) 
 ![Analysis](Analysis.png) 
 ![QBlade](QBlade.png) 
-![CATIA Design](CATIA_Design.png) 
+![CATIA Design](CATIA.png) 
 ![MATLAB Simulation 1](MATLAB_Simulation_1.png) 
 ![MATLAB Simulation 2](MATLAB_Simulation_2.png) 
 ![MATLAB Simulation 3](MATLAB_Simulation_3.png) 
